@@ -17,6 +17,6 @@
         </div>
     </main>
 
-<?php>
+<?php
     require "footer.php";
 ?>
